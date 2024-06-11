@@ -13,7 +13,6 @@ This project contains a script to perform a Wi-Fi deauthentication attack using 
 
 ```
 .
-├── requirements.txt
 ├── wifi_pwn.py
 └── README.md
 ```
