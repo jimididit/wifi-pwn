@@ -51,7 +51,7 @@ pip install -r requirements.txt
 Make sure the script is executable:
 
 ```sh
-chmod +x script.py
+chmod +x wifi_pwn.py
 ```
 
 Run the wifi_pwn.py script with superuser privileges:
